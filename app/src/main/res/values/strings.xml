@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">Happy Birthday Mark</string>
+    <string name="from_arinze">From Arinze</string>
+    <string name="button">Click Me</string>
+</resources>
