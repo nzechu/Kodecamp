@@ -18,8 +18,10 @@ class MainActivity : AppCompatActivity() {
 
 
         val picImage = findViewById<ImageView>(R.id.imageView)
+        picImage.setImageResource(R.drawable.birthday)
         val buttonClick = findViewById<Button>(R.id.button)
         buttonClick.setOnClickListener{
+            
 
            picImage.visibility = View.INVISIBLE
             //buttonClick.setBackgroundColor(R.color.teal_200)
